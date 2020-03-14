@@ -1,0 +1,27 @@
+table.teaminfo-table {
+    margin-top: 10px;
+    background-color: white;
+    width: 60%;
+    text-align: left;
+    border-collapse: collapse;
+  }
+  table.teaminfo-table td, table.teaminfo-table th {
+    padding: 15px;
+  }
+  table.teaminfo-table tbody td {
+    font-size: 17px;
+  }
+  
+  .table-title{
+    margin-top: 15px;
+    margin-bottom: 0;
+  }
+  
+  .teaminfo-table td{
+    width: 30%;
+  }
+
+  .teaminfo-img img{
+    max-width: 100%;
+    height: auto;
+  }

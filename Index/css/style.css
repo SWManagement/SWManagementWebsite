@@ -36,15 +36,23 @@ html{
 
 .wrapper-info h2{
     font-size: 1.5em;
+    margin-bottom: 15px;
     text-align: center;
 }
 
-.info p{
-    margin-left: 15%;
-    margin-right: 15%;
+.info {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 15px;
     border: lightgreen 2px solid;
     padding: 15px;
 }
 
-/* Footer style */
+/* media */
 
+@media only screen and (max-width: 600px){
+  .info{
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+}
