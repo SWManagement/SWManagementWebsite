@@ -1,100 +1,55 @@
-* {
-    box-sizing: border-box;
-    margin: 0; 
-    padding: 0;
-}
-
-
-body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-}
-
-.container {
-    flex: 1;    /* same as flex-grow: 1; */
-}
-
-footer ul {
-    list-style: none;
-    padding-left: 0;
-}
-footer {
+footer{
     background-color: #6ba871;
-    line-height: 1.5;
     color: #fff;
-}
-footer a {
-    text-decoration: none;
-    color: #fff;
-}
-footer a:hover {
-    text-decoration: underline;
+    padding: 15px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
 }
 
-/* upper footer */
-.ft-title {
-    color: #fff;
-    font-size: 1.375rem;
-    padding-bottom: 0.625rem;
-}
-
-.ft-main {
-    padding: 1.25rem 1.875rem;
+.sponsor-imgs{
     display: flex;
-    flex-wrap: wrap;
-}
-.ft-main-item {
-    padding: 1.25rem;
-    min-width: 12.5rem /*200px*/;
+    background-color: #fff;
 }
 
-/* middle footer */
 
-.ft-social {
-    padding: 0 1.875rem 1.25rem;
-}
-.ft-social-list {
+.sponsor-img{
+    margin: 10px;
+    width: 32%;
+    ma-height: 170px;
     display: flex;
     justify-content: center;
-    border-top: 1px #777 solid; 
-    padding-top: 1.25rem;
-}
-.ft-social-list li {
-    margin: 0.5rem;
-    font-size: 1.25rem;
+    align-items: center;
 }
 
-
-/* bottom footer */
-.ft-legal {
-    padding: 0.9375rem 1.875rem;
-    background-color: #333;
-}
-.ft-legal-list {
+footer img {
     width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-}
-.ft-legal-list li {
-    margin: 0.125rem 0.625rem;
-    white-space: nowrap;
-}
-/* one before the last child */
-.ft-legal-list li:nth-last-child(2) {
-    flex: 1;       /* same as flex-grow: 1; */
+    height: auto;
 }
 
-/* media */
+@media only screen and (max-width:600px){
 
-@media only screen and (min-width: 29.8125rem /*477px*/) {
-    .ft-main {
-        justify-content: space-around;
+    footer{
+        padding: 0;
     }
-}
-@media only screen and (min-width: 77.5rem /*1240px*/ ) {
-    .ft-main {
-        justify-content: space-evenly;
+
+    .sponsor-imgs{
+        display: block;
+        background-color: #fff;
+        
     }
+
+    .sponsor-img{
+        margin: 15px;
+        width: 100%;
+    }
+    
+    footer img {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 100%;
+        height: auto;
+        max-height: 200px;
+    } 
 }
 
