@@ -10,11 +10,11 @@ html{
     overflow: hidden;
     background-color: #6ba871;
   }
-  
+
 #navigation li {
     float: left;
+    margin-bottom: 15px;
   }
-  
   
 #navigation  li a {
     display: block;
@@ -28,11 +28,20 @@ html{
     background-color: #6ba523;
   }
 
-#navigation {
-    margin-bottom: 15px;
+/* Body style */
+
+.content{
+  min-height: 100vh;
+  background: white;
+  position: relative;
+  z-index: 1;
+  width: 100%;
+};
+
+.content h2{
+  text-align: center;
 }
 
-/* Body style */
 
 .wrapper-info h2{
     font-size: 1.5em;
