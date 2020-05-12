@@ -44,18 +44,18 @@
             <div class="tile">
             <div class="tile is-parent is-vertical">
                 <article class="tile is-child notification is-info">
-                <p class="title is-spaced is-2"> <span class="icon is-large"><i class="fa-facebook-square fab"></i></span>Facebook kanal</p>
+                <p class="title is-spaced is-2"> <span class="icon is-large"><i class="fa-facebook-square fab"></i></span> <br> Facebook kanal</p>
                 <p class="subtitle">Facebook kanal je bil ustvarjen z namenom ozaveščanja in informiranja starejšega prebivalstva. Na njem so vsebine kot so dejstva in zanimivi podatki o ločevanju, zero waste način življenja,
-                     ideje o ponovni uporabi, DIY ideje, kratki EKO kvizi. <a href="https://www.facebook.com/pametnozodpadki" target="_blank" style="font-weight: bolder;">Oglej si našo Facebook stran!</a></p>
+                     ideje o ponovni uporabi, DIY ideje, kratki EKO kvizi.<br> <a href="https://www.facebook.com/pametnozodpadki" target="_blank" style="font-weight: bolder;">Oglej si našo Facebook stran!</a></p>
                 </article>
                 <article class="tile is-child notification is-warning">
-                    <p class="title is-spaced is-2"><span class="icon is-large"><i class="fa-instagram fab"></i></span>Instagram kanal</p>
+                    <p class="title is-spaced is-2"><span class="icon is-large"><i class="fa-instagram fab"></i></span> <br> Instagram kanal</p>
                     <p class="subtitle">Bottom tile</p>
                 </article>
             </div>
             <div class="tile is-parent">
                 <article class="tile is-child notification is-danger">
-                <p class="title is-spaced is-2"><span class="icon is-large"><i class="fa-mobile-alt fas"></i></span> <br> Mobilna aplikacija "Kam spada?"</p>
+                <p class="title is-spaced is-2"><span class="icon is-large"><i class="fa-mobile-alt fas"></i></span> <br> Mobilna aplikacija <br> "Kam spada?"</p>
                 <p class="subtitle">With an image</p>
                 </article>
             </div>
@@ -64,6 +64,7 @@
             <article class="tile is-child notification is-dark">
                 <p class="title is-spaced is-2">
                     <img src="https://img.icons8.com/doodle/48/000000/tiktok.png"/>
+                    <br>
                     TikTok kanal
                 </p>
                 <p class="subtitle">Aligned with the right tile</p>
@@ -73,23 +74,36 @@
             </article>
             </div>
             <div class="tile is-parent">
-                <article class="tile is-child notification is-primary">
-                <p class="title is-spaced is-2"><span class="icon is-large"><i class="fa-file far"></i></span>Spletna aplikacija</p>
-                <p class="subtitle">With an image</p>
-                </article>
+            <article class="tile is-child notification is-">
+                <p class="title is-spaced is-2">
+                <i class="fas fa-recycle"></i>
+                <br>
+                    Glasovalni smetnjak
+                </p>
+                <p class="subtitle">Aligned with the right tile</p>
+                <div class="content">
+                <!-- Content -->
+                </div>
+            </article>
             </div>
         </div>
-        <div class="tile is-parent">
+        <div class="tile is-parent is-vertical">
             <article class="tile is-child notification is-success">
         <div class="content">
                 <p class="title is-spaced is-2">
-                <span class="icon is-large"><i class="fa-trash-restore fas"></i></span>
-                Senzor</p>
+                <span class="icon is-large"><i class="fas fa-car-battery"></i></span>
+                <br>
+                Senzor
+                </p>
                 <p class="subtitle">With even more content</p>
             <div class="content">
                 <!-- Content -->
                 </div>
                 </div>
+            </article>
+            <article class="tile is-child notification is-primary">
+                <p class="title is-spaced is-2"><span class="icon is-large"><i class="fas fa-file-alt"></i></span> <br> Spletna aplikacija</p>
+                <p class="subtitle">With an image</p>
             </article>
             </div>
         </div>

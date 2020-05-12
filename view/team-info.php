@@ -159,7 +159,7 @@
                 <div class="media-content">
                     <div class="content">
                         <p> <span style="font-size: 1.3em; font-weight: bolder;">Martin Štrekelj</span><span style="padding-left: 15px;">Fakulteta za računalništvo in informatiko</span> <hr>
-                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe.
+                        Razvijalec mobilne in spletne aplikacije
                         </p>
                     </div>
                 </div>   
