@@ -11,11 +11,13 @@
 </head>
     <body>
     <?php include("view/header.php"); ?>
-    <div class="wrapper-info">
-        <h1 class="title">
-            Problematika
-        </h1>
-        <div class="info">
+    <div class="hero is-fullheight">
+    <div class="hero-head">
+        <p>
+                Problematika
+        </p>
+    </div>
+    <div class="hero-body">
             <p class="subtitle">
                 Odpadki so danes eno izmed ključnih področij,
                 s katerimi se ukvarja človeška civilizacija in naslavljajo tako razviti kot manj razviti svet.
@@ -28,21 +30,14 @@
                 preprečuje njihov nastanek (načrtovano nakupovanje) in deluje "zeleno" (izbira embalaže, nakupovalne torbe, kupovanje lokalno ipd.). 
                 Po drugi strani pa se lahko z ustreznimi motivacijskimi elementi spodbudi ljudi, da se do okolja in odpadkov obnašajo bolj odgovorno.
             </p>
-        </div>
-            <h2>
-                Lokacija aktivnosti
-            </h2>
-        <div class="info">
             <p>
                 Aktivnosti se bodo izvajale v lokalnem okolju mesta Ljubljane.
                 Njeni prebivalci bodo ciljna skupina tako raziskav (ankete in intervjuji) kot tudi aktivnosti, 
                 s katerimi bomo preverili, kaj deluje in kaj ne.    
             </p>
-        </div>
             <h2>
                 Cilji
             </h2>
-        <div class="info">
             <p>
                 Cilj projekta je razviti različne artefakte,
                 ki na podlagi raziskanih potreb prebivalcev lokalnega okolja, delujejo informativno in izobraževalno,

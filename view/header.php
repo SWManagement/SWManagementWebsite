@@ -12,7 +12,7 @@
   </a>
   </div>
 
-  <div id="navbarBasicExample" class="navbar-menu">
+  <div id="navigation" class="navbar-menu">
     <div class="navbar-end">
       <a class="navbar-item" href="<?= BASE_URL . "project-info"?>">
         O projektu
