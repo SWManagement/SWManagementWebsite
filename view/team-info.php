@@ -10,80 +10,199 @@
     <title>Pametno z odpadki | O ekipi</title>
 </head>
 <body>
-<?php include("view/header.php") ?>   
-<div class="wrapper-info">
-    <h2>
-        Ekipa Smart Waste Management
-    </h2>
-    <div class="info">
-        <p><b>Ekipa Smart Waste Management je sestavljena iz devetih študentov ter treh mentorjev</b>. Študenti prihajajo iz različnih fakultet, in sicer Fakultete za upravo, Fakultete za elektrotehniko, Ekonomske fakultete
-             ter Fakultete za računalništvo in informatiko. Raznolikost študijskih področij in pogledov na problematiko bo prineslo veliko dodane vrednosti k izvedbi projekta.
-        </p>
-        <div class="teaminfo">
-            <div class="teaminfo-tables">
-                <h3 class="table-title">Mentorji</h3>
-                <table class="teaminfo-table">
-                    <tbody>
-                        <tr>
-                        <td>Mitja Dečman</td>
-                        <td>Fakulteta za upravo</td>
-                        </tr>
-                        <tr>
-                        <td>Ana Kyra Bekš</td>
-                        <td>Servis 8</td>
-                        </tr>
-                        <tr>
-                        <td>Ana Osredkar</td>
-                        <td>Servis 8</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                <h3 class="table-title">Študentje</h3>
-                <table class="teaminfo-table">
-                    <tbody>
-                        <tr>
-                        <td>Neža Smerajc</td>
-                        <td>Fakulteta za upravo</td>
-                        </tr>
-                        <tr>
-                        <td>Ana Škrlin</td>
-                        <td>Fakulteta za upravo</td>
-                        </tr>
-                        <tr>
-                        <td>Lina Ženko</td>
-                        <td>Fakulteta za upravo</td>
-                        </tr>
-                        <tr>
-                        <td>Flora Anžel</td>
-                        <td>Fakulteta za upravo</td>
-                        </tr>
-                        <tr>
-                        <td>Simona Smrtnik</td>
-                        <td>Fakulteta za upravo</td>
-                        </tr>
-                        <tr>
-                        <td>Luka Tomažič</td>
-                        <td>Fakulteta za računalništvo in infomatiko</td>
-                        </tr>
-                        <tr>
-                        <td>Martin Štrekelj</td>
-                        <td>Fakulteta za računalništvo in infomatiko</td>
-                        </tr>
-                        <tr>
-                        <td>Matevž Zorec</td>
-                        <td>Fakulteta za elektrotehniko</td>
-                        </tr>
-                        <tr>
-                        <td>Primož Prošek</td>
-                        <td>Ekonomska fakulteta</td>
-                        </tr>
-                        </tbody>
-                </table>
-            </div>
-            <div class="teaminfo-img">
-                <img src="../static/img/teamphoto1.jpg" alt="teamphoto1">
-            </div>
+<?php include("view/header.php") ?>
+
+<div class="hero mrg-top">
+    <div class="container">
+        <p class="title is-spaced">Ekipa Pametno z odpadki</p>
+        <p class="subtitle">Ekipa je sestavljena iz devetih študentov ter dveh mentorjev. Študenti prihajajo iz različnih fakultet, in sicer Fakultete za upravo, Fakultete za elektrotehniko, Ekonomske fakultete
+             ter Fakultete za računalništvo in informatiko. Raznolikost študijskih področij in pogledov na problematiko bo prineslo veliko dodane vrednosti k izvedbi projekta.</p>
+             <br>
+        <p class="title is-spaced is-4">Mentorji</p>
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <div class="content">
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Mitja Dečman</span> <span style="padding-left: 15px;">Fakulteta za upravo</span> <hr>
+                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe. Corporis rem voluptates adipisci id reiciendis debitis nisi perferendis odio? Ex ab velit adipisci sint sit aliquid ad molestiae ut?
+                        </p>
+                    </div>
+                </div>   
+            </article>
         </div>
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <div class="content">
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Ana Kyra Bekš</span><span style="padding-left: 15px;">Servis 8</span> <hr>
+                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe.
+                        </p>
+                    </div>
+                </div>   
+            </article>
+        </div>
+        <br>
+        <p class="title is-spaced is-4">Študentje</p>
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <div class="content">
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Neža Smerajc</span><span style="padding-left: 15px;">Fakulteta za upravo</span> <hr>
+                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe.
+                        </p>
+                    </div>
+                </div>   
+            </article>
+        </div>
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <div class="content">
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Ana Škrlin</span><span style="padding-left: 15px;">Fakulteta za upravo</span> <hr>
+                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe.
+                        </p>
+                    </div>
+                </div>   
+            </article>
+        </div>
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <div class="content">
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Lina Ženko</span><span style="padding-left: 15px;">Fakulteta za upravo</span> <hr>
+                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe.
+                        </p>
+                    </div>
+                </div>   
+            </article>
+        </div>
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <div class="content">
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Flora Anžel</span><span style="padding-left: 15px;">Fakulteta za upravo</span> <hr>
+                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe.
+                        </p>
+                    </div>
+                </div>   
+            </article>
+        </div>
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <div class="content">
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Simona Smrtnik</span><span style="padding-left: 15px;">Fakulteta za upravo</span> <hr>
+                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe.
+                        </p>
+                    </div>
+                </div>   
+            </article>
+        </div>
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="../static/img/members/foo.png" alt="Image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <div class="content">
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Luka Tomažič</span><span style="padding-left: 15px;">Fakulteta za računalništvo in informatiko</span> <hr>
+                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe.
+                        </p>
+                    </div>
+                </div>   
+            </article>
+        </div>
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="../static/img/members/strekelj.jpg" alt="Image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <div class="content">
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Martin Štrekelj</span><span style="padding-left: 15px;">Fakulteta za računalništvo in informatiko</span> <hr>
+                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe.
+                        </p>
+                    </div>
+                </div>   
+            </article>
+        </div>
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <div class="content">
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Matevž Zorec</span><span style="padding-left: 15px;">Fakulteta za elektrotehniko</span> <hr>
+                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe.
+                        </p>
+                    </div>
+                </div>   
+            </article>
+        </div>
+        <div class="box">
+            <article class="media">
+                <div class="media-left">
+                    <figure class="image is-64x64">
+                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                    </figure>
+                </div>
+                <div class="media-content">
+                    <div class="content">
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Primož Prosec</span><span style="padding-left: 15px;">Fakulteta za ekonomsko</span> <hr>
+                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe.
+                        </p>
+                    </div>
+                </div>   
+            </article>
+        </div>
+        <figure class="image is-fullwidth">
+            <img src="../static/img/teamphoto1.jpg" alt="teamphoto1">
+        </figure>
+    </div>
+</div>
+                
     </div>
 </div> 
 <?php include("view/footer.php") ?>     

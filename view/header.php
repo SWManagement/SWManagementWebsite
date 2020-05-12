@@ -1,4 +1,4 @@
-<nav class="navbar  is-spaced is-primary" role="navigation" aria-label="main navigation">
+<nav class="navbar  is-spaced is-transparent" role="navigation" aria-label="main navigation">
 
     <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
       <span aria-hidden="true"></span>

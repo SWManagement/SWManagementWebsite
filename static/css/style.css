@@ -1,1 +1,21 @@
 
+.mrg-top{
+    margin-top: 30px;
+}
+
+.mrg-bot{
+    margin-bottom: 30px;
+}
+
+.emphasis{
+    font-weight: bolder;
+    font-size: 1.25em;
+}
+
+.emp_bad{
+    color: #ff3860;
+}
+
+.emp_gud{
+    color: #8BC540;
+}
