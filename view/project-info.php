@@ -45,18 +45,26 @@
             <div class="tile is-parent is-vertical">
                 <article class="tile is-child notification is-info">
                 <p class="title is-spaced is-2"> <span class="icon is-large"><i class="fa-facebook-square fab"></i></span> <br> Facebook kanal</p>
-                <p class="subtitle">Facebook kanal je bil ustvarjen z namenom ozaveščanja in informiranja starejšega prebivalstva. Na njem so vsebine kot so dejstva in zanimivi podatki o ločevanju, zero waste način življenja,
-                     ideje o ponovni uporabi, DIY ideje, kratki EKO kvizi.<br> <a href="https://www.facebook.com/pametnozodpadki" target="_blank" style="font-weight: bolder;">Oglej si našo Facebook stran!</a></p>
+                <p class="subtitle is-4">Facebook kanal je bil ustvarjen z namenom ozaveščanja in informiranja predvsem starejšega prebivalstva, ki jim uporaba Facebooka ni tuja. Na njem so vsebine kot so dejstva in zanimivi podatki o ločevanju, zero waste način življenja,
+                     ideje o ponovni uporabi, DIY ideje, kratki EKO kvizi.<br> <a href="https://www.facebook.com/pametnozodpadki" target="_blank" style="font-weight: bolder;">Oglej si naš Facebook kanal!</a></p>
                 </article>
                 <article class="tile is-child notification is-warning">
                     <p class="title is-spaced is-2"><span class="icon is-large"><i class="fa-instagram fab"></i></span> <br> Instagram kanal</p>
-                    <p class="subtitle">Bottom tile</p>
+                    <p class="subtitle is-4">Družabno omrežje Instagram sledilcem ponuja veliko, aktualnih, poučnih, zanimivih in interaktivnih vsebin.
+                     Preko kanala <b>Pametno_z_odpadki</b> skušamo predvsem mlade ozavestiti o odgovornem odnosu do okolja. Na Instagram kanalu lahko taki najdete vsebine povezane z recikliranjem,
+                      varčevanje, ponovno uporabo, Ideje za ustvarjanje iz odpadnih materialov,
+                     uporabne nasvete in preverjena dejstva. Svoje znanje lahko preizkusite v kvizih in sodelujete v kakšni izmed nagradnih iger.
+                     <br> <a href="https://www.instagram.com/pametno_z_odpadki/" target="_blank" style="font-weight: bolder;">Sledi našemu Instagram kanalu!</a></p>
                 </article>
             </div>
             <div class="tile is-parent">
                 <article class="tile is-child notification is-danger">
                 <p class="title is-spaced is-2"><span class="icon is-large"><i class="fa-mobile-alt fas"></i></span> <br> Mobilna aplikacija <br> "Kam spada?"</p>
-                <p class="subtitle">With an image</p>
+                <p class="subtitle is-4">Mobilna aplikacija <b>“Kam spada?”</b> s svojo funkcionalnostjo nagovarja vse, ki se včasih znajdemo v dilemi in včasih ne vemo v katerega od smetnjakov sodi odpadek.
+                Aplikacija je torej lahko v pomoč vsem uporabnikom, ki bi radi ravnali okolju prijazno in odgovorno. Ponuja odgovore o tem, kam sodi kateri izmed odpadkov in omogoči, da uporabnik pridobi natančen in pravilen podatek o ločevanju
+                . Uporabnik aplikacije tako ne bo zapravljal časa pri iskanju odgovora na spetu, temveč bo podatek o pravilnem ločevanju s pomočjo aplikacije pridobil takoj.
+                <br>
+                Aplikacija <b>"Kam spada?"</b> bo na voljo na Google Play in Apple Store</p>
                 </article>
             </div>
             </div>
@@ -67,23 +75,30 @@
                     <br>
                     TikTok kanal
                 </p>
-                <p class="subtitle">Aligned with the right tile</p>
+                <p class="subtitle is-4">
+                Družabno omrežje TikTok sledilcem ponuja predvsem ideje za izdelavo DIY izdelkov iz odpadkov ter izobražuje o ponovni uporabi.
+                 Na kanalu <b>Pametnozodpadkii</b> ponujamo izobraževalne vsebine, dejstva, podatke na zanimiv, privlačen in inovativen način.
+                  Namen kanala je tako ozaveščanje mladih o problematiki odpadkov. Preko kanala <b>Pametnozodpadkidiy</b> pa skušamo mlade predvsem navdihniti in jim predstaviti,
+                   kako z malo inovativnosti in kreativnosti lahko iz odpadkov izdelajo nove izdelke in materiale tako ponovno uporabijo. Približati jim skušamo idejo, da naj stvari ne zavržejo temveč jih raje ponovno uporabijo.
+                 Hkrati na kanalu ponujamo tudi ideje, predloge in nasvete kako živeti bolj trajnostno, ustvarjati manj odpadkov ter mogoče s tem tudi kaj privarčevati. 
+                </p>
                 <div class="content">
                 <!-- Content -->
                 </div>
             </article>
             </div>
             <div class="tile is-parent">
-            <article class="tile is-child notification is-">
+            <article class="tile is-child notification">
                 <p class="title is-spaced is-2">
                 <i class="fas fa-recycle"></i>
                 <br>
                     Glasovalni smetnjak
                 </p>
-                <p class="subtitle">Aligned with the right tile</p>
-                <div class="content">
-                <!-- Content -->
-                </div>
+                <p class="subtitle is-4">Glasovalni smetnjak uporabnikom ponuja odlaganje odpadkov na zabaven način.
+                 Sestavljen je iz vprašanja in dveh odgovorov.
+                  Uporabnik odvrže odpadek v režo z odgovorom, s katerim se strinja. Posameznik se lahko vrača k smetnjaku in opazuje v kateri reži (v katerem odgovoru) se zbira največ odpadkov.
+                 Glasovalni smetnjak lahko predstavlja vrsto tekmovanja med uporabniki, hkrati pa preprečuje odlaganje odpadkov izven smetnjakov.
+                  </p>
             </article>
             </div>
         </div>
@@ -95,7 +110,12 @@
                 <br>
                 Senzor
                 </p>
-                <p class="subtitle">With even more content</p>
+                <p class="subtitle is-4">
+                Cilj je razviti nizkocenovni senzor, ki bi omogočal merjenje polnosti zabojnika in podatke preko internetnega omrežja pošiljal na spletni strežnik.
+                 Pri tem bo uporabljal LRaWAN omrežje, ki imogoča prenos podatkov na dolge razdalje in z majhno porabo energije.
+                 S tem zagotavljamo dolgo delovanje senzorja s pomočjo baterije.
+                  Senzor temelji na Arduino Pro Mini napravi z ultrasoničnim merilnikom razdalje in RFM95 modulom za komuniciranje.
+                </p>
             <div class="content">
                 <!-- Content -->
                 </div>
