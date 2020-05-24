@@ -193,8 +193,11 @@
                 </div>
                 <div class="media-content">
                     <div class="content">
-                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Matevž Zorec</span><span style="padding-left: 15px;">Fakulteta za elektrotehniko</span> <hr>
-                        Vsebina v pripravi.
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Matevž B. Zorec</span><span style="padding-left: 15px;">Fakulteta za elektrotehniko</span> <hr>
+                        Naš študent Fakultete za Elektrotehniko je pri projektu odgovoren za razvoj po njegovem imenovane "Brihtne Kante" - pametnega zabojnika,
+                        oziroma: naprave, ki meri, koliko je poln smetnjak.
+                        Matevž se ubada z raziskovanjem in razvojem konceptov, testiranjem, evalviranjem rešitev in z evalvacijami na trgu prisotnih rešitev s tehnološkega vidika.
+                        Vzporedno pa sodeluje pri razvoju inovativnega prototipa, ki osnovi obstoječih uspešnih rešitev prilaga tudi več novih inovacij.
                         </p>
                     </div>
                 </div>   

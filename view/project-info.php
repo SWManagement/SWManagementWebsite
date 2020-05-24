@@ -64,7 +64,7 @@
                 Aplikacija je torej lahko v pomoč vsem uporabnikom, ki bi radi ravnali okolju prijazno in odgovorno. Ponuja odgovore o tem, kam sodi kateri izmed odpadkov in omogoči, da uporabnik pridobi natančen in pravilen podatek o ločevanju
                 . Uporabnik aplikacije tako ne bo zapravljal časa pri iskanju odgovora na spetu, temveč bo podatek o pravilnem ločevanju s pomočjo aplikacije pridobil takoj.
                 <br>
-                Aplikacija <b>"Kam spada?"</b> bo na voljo na Google Play in Apple Store</p>
+                Aplikacija <b>"Kam spada?"</b> bo na voljo na Google Play in Apple Store.</p>
                 </article>
             </div>
             </div>
