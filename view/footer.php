@@ -4,7 +4,7 @@
   <div class="container">
   <div class="columns">
   <div class="column is-2 has-text-centered is-success">
-    <p class="title is-4">Socialna omrežja</p>
+    <p class="title is-4">Družbena omrežja</p>
     <p class="subtitle is-6">Sledite nam!</p>
     <a href="https://www.facebook.com/pametnozodpadki" target="_blank" alt="Facebook skupina Pametno z odpadki"><span class="icon is-medium"><i class="fa-facebook-square fab fa-2x"></i></span></a>
     <a href="https://www.instagram.com/pametno_z_odpadki/" target="_blank" ><span class="icon is-medium"><i class="fa-instagram fab fa-2x"></i></span></a>
@@ -32,4 +32,5 @@
   </div>
   </div>
   </div>
-</footer>  
+</footer>
+<script src="../static/js/script.js"></script>  

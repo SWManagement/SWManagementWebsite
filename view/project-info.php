@@ -108,11 +108,11 @@
                 <p class="title is-spaced is-2">
                 <span class="icon is-large"><i class="fas fa-car-battery"></i></span>
                 <br>
-                Senzor
+                Pametni zabojnik
                 </p>
                 <p class="subtitle is-4">
                 Cilj je razviti nizkocenovni senzor, ki bi omogočal merjenje polnosti zabojnika in podatke preko internetnega omrežja pošiljal na spletni strežnik.
-                 Pri tem bo uporabljal LRaWAN omrežje, ki imogoča prenos podatkov na dolge razdalje in z majhno porabo energije.
+                 Pri tem bo uporabljal LoRaWAN omrežje, ki imogoča prenos podatkov na dolge razdalje in z majhno porabo energije.
                  S tem zagotavljamo dolgo delovanje senzorja s pomočjo baterije.
                   Senzor temelji na Arduino Pro Mini napravi z ultrasoničnim merilnikom razdalje in RFM95 modulom za komuniciranje.
                 </p>

@@ -19,3 +19,11 @@
 .emp_gud{
     color: #538d22;
 }
+
+#mobileMenu {
+    display: none;
+}
+
+.mobileMenuLinks{
+    margin: 5px;
+}
