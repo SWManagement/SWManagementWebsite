@@ -123,7 +123,7 @@
             </article>
             <article class="tile is-child notification is-primary">
                 <p class="title is-spaced is-2"><span class="icon is-large"><i class="fas fa-file-alt"></i></span> <br> Spletna aplikacija</p>
-                <p class="subtitle">With an image</p>
+                <p class="subtitle is-4">Vsebina v pripravi.</p>
             </article>
             </div>
         </div>

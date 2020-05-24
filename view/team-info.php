@@ -22,14 +22,14 @@
         <div class="box">
             <article class="media">
                 <div class="media-left">
-                    <figure class="image is-64x64">
-                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                    <figure class="image is-128x128">
+                        <img src="../static/img/members/decman.jpg" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
                     <div class="content">
                         <p> <span style="font-size: 1.3em; font-weight: bolder;">Mitja Dečman</span> <span style="padding-left: 15px;">Fakulteta za upravo</span> <hr>
-                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe. Corporis rem voluptates adipisci id reiciendis debitis nisi perferendis odio? Ex ab velit adipisci sint sit aliquid ad molestiae ut?
+                        Vsebina v pripravi.
                         </p>
                     </div>
                 </div>   
@@ -39,7 +39,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                        <img src="../static/img/members/foo.png" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
@@ -58,7 +58,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                        <img src="../static/img/members/foo.png" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
@@ -78,7 +78,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                        <img src="../static/img/members/foo.png" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
@@ -99,7 +99,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                        <img src="../static/img/members/foo.png" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
@@ -120,7 +120,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                        <img src="../static/img/members/foo.png" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
@@ -138,7 +138,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                        <img src="../static/img/members/foo.png" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
@@ -156,7 +156,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="../static/img/members/foo.png" alt="Image">
+                        <img src="../static/img/members/tomazic.jpg" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
@@ -188,13 +188,13 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                        <img src="../static/img/members/foo.png" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
                     <div class="content">
                         <p> <span style="font-size: 1.3em; font-weight: bolder;">Matevž Zorec</span><span style="padding-left: 15px;">Fakulteta za elektrotehniko</span> <hr>
-                        lorem lorem lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. A, saepe.
+                        Vsebina v pripravi.
                         </p>
                     </div>
                 </div>   
@@ -204,7 +204,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="https://bulma.io/images/placeholders/128x128.png" alt="Image">
+                        <img src="../static/img/members/foo.png" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
