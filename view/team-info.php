@@ -212,7 +212,7 @@
                 </div>
                 <div class="media-content">
                     <div class="content">
-                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Primož Prosec</span><span style="padding-left: 15px;">Fakulteta za ekonomsko</span> <hr>
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Primož Prosec</span><span style="padding-left: 15px;">Fakulteta za ekonomijo</span> <hr>
                         Primož Prošek je študent podiplomskega študija poslovne logistike na Ekonomski fakulteti.
                          Pri projektu sodeluje predvsem na področju ozaveščanja o pravilnem ravnanju z odpadki in ponovni uporabi preko družabnega omrežja TikTok.
                         </p>
