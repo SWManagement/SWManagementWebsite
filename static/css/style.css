@@ -27,3 +27,8 @@
 .mobileMenuLinks{
     margin: 5px;
 }
+
+
+.column-flex {
+    display: flex;
+  }

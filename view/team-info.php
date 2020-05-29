@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../static/css/mystyles.css">
-    <link rel="stylesheet" href="../static/css/style.css">
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <link rel="stylesheet" href="../static/css/style.css">
     <title>Pametno z odpadki | O ekipi</title>
 </head>
 <body>
@@ -19,6 +19,8 @@
              ter Fakultete za računalništvo in informatiko. Raznolikost študijskih področij in pogledov na problematiko bo prineslo veliko dodane vrednosti k izvedbi projekta.</p>
              <br>
         <p class="title is-spaced is-4">Mentorji</p>
+        <div class="columns">
+            <div class="column column-flex is-6">
         <div class="box">
             <article class="media">
                 <div class="media-left">
@@ -28,29 +30,39 @@
                 </div>
                 <div class="media-content">
                     <div class="content">
-                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Mitja Dečman</span> <span style="padding-left: 15px;">Fakulteta za upravo</span> <hr>
-                        Vsebina v pripravi.
-                        </p>
+                        <header><span style="font-size: 1.3em; font-weight: bolder;">Mitja Dečman</span> <span style="padding-left: 15px;">Fakulteta za upravo</span></header> <hr>
+                        <section class="columnBody"> 
+                            Dr. Mitja Dečman je docent za področje informatike v upravi na Univerzi v Ljubljani, Fakulteti za upravo,
+                            kjer se poleg pedagoške uspešno ukvarja z raziskovalno dejavnostjo,
+                            hkrati pa sodeluje ali vodi različne projekte tako interno kot tudi na ravni Slovenije in Evropske unije.
+                            Veseli ga povezovanje tehnologije in njenih učinkov na ljudi in družbo, zato je bil tudi pobudnik tega projekta.
+                        </section>
                     </div>
                 </div>   
             </article>
         </div>
+        </div>
+        <div class="column column-flex is-6">
         <div class="box">
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="../static/img/members/foo.png" alt="Image">
+                        <img src="../static/img/members/beks.png" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
                     <div class="content">
-                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Ana Kyra Bekš</span><span style="padding-left: 15px;">Servis 8</span> <hr>
+                        <header><span style="font-size: 1.3em; font-weight: bolder;">Ana Kyra Bekš</span><span style="padding-left: 15px;">Servis 8</span></header>
+                        <hr>
+                        <section class="columnBody">
                         Ana Kyra Bekš je storitvena oblikovalka in facilitatorka soustvarjalnih procesov. Na projektu je v vlogi mentorice in predavateljice,
                          vedno poskrbi za igrive aktivnosti, najraje pa provocira člane ekipe z legendarnimi slovenskimi pop zvezdami.
-                        </p>
+                        </section>
                     </div>
                 </div>   
             </article>
+        </div>
+        </div>
         </div>
         <br>
         <p class="title is-spaced is-4">Študentje</p>
@@ -58,7 +70,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="../static/img/members/foo.png" alt="Image">
+                        <img src="../static/img/members/smerajc.jpg" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
@@ -78,7 +90,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="../static/img/members/foo.png" alt="Image">
+                        <img src="../static/img/members/skrlin.jpg" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
@@ -99,7 +111,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="../static/img/members/foo.png" alt="Image">
+                        <img src="../static/img/members/zenko.png" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
@@ -126,7 +138,7 @@
                 <div class="media-content">
                     <div class="content">
                         <p> <span style="font-size: 1.3em; font-weight: bolder;">Flora Anžel</span><span style="padding-left: 15px;">Fakulteta za upravo</span> <hr>
-                        Flora Anžel je študentka Fakultete za upravo, visokošolskega študijskeg programa.
+                        Flora Anžel je študentka Fakultete za upravo, visokošolskega študijskega programa.
                          Pri projektu izdeluje in testira prvi, tako imenovan Glasovalni smetnjak v Sloveniji, kateri spodbuja ljudi k odlaganju odpadkov na zabaven in tekmovalen način.
                          Z njim želi zmanjšati onesnaženost prostorov in območji, kjer se dnevno zbira veliko število ljudi.
                         </p>
@@ -188,7 +200,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="../static/img/members/foo.png" alt="Image">
+                        <img src="../static/img/members/zorec.jpg" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
@@ -212,7 +224,7 @@
                 </div>
                 <div class="media-content">
                     <div class="content">
-                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Primož Prosec</span><span style="padding-left: 15px;">Fakulteta za ekonomijo</span> <hr>
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Primož Prosec</span><span style="padding-left: 15px;">Ekonomska fakulteta</span> <hr>
                         Primož Prošek je študent podiplomskega študija poslovne logistike na Ekonomski fakulteti.
                          Pri projektu sodeluje predvsem na področju ozaveščanja o pravilnem ravnanju z odpadki in ponovni uporabi preko družabnega omrežja TikTok.
                         </p>
@@ -224,10 +236,8 @@
             <img src="../static/img/teamphoto1.jpg" alt="teamphoto1">
         </figure>
     </div>
+</div>             
 </div>
-                
-    </div>
-</div> 
 <?php include("view/footer.php") ?>     
 </body>
 </html>
