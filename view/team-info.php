@@ -150,7 +150,7 @@
             <article class="media">
                 <div class="media-left">
                     <figure class="image is-64x64">
-                        <img src="../static/img/members/foo.png" alt="Image">
+                        <img src="../static/img/members/Smrtnik.jpg" alt="Image">
                     </figure>
                 </div>
                 <div class="media-content">
@@ -224,9 +224,10 @@
                 </div>
                 <div class="media-content">
                     <div class="content">
-                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Primož Prosec</span><span style="padding-left: 15px;">Ekonomska fakulteta</span> <hr>
+                        <p> <span style="font-size: 1.3em; font-weight: bolder;">Primož Prošek</span><span style="padding-left: 15px;">Ekonomska fakulteta</span> <hr>
                         Primož Prošek je študent podiplomskega študija poslovne logistike na Ekonomski fakulteti.
-                         Pri projektu sodeluje predvsem na področju ozaveščanja o pravilnem ravnanju z odpadki in ponovni uporabi preko družabnega omrežja TikTok.
+                        Pri projektu sodeluje predvsem na področju ozaveščanja o pravilnem ravnanju z odpadki in ponovni uporabi preko družabnih omrežij TikTok in Facebook.
+                        Aktiven je tudi pri izdelovanju vsebinskega dela mobilne aplikacije.
                         </p>
                     </div>
                 </div>   
