@@ -23,7 +23,12 @@ $urls = [
 
     "team-info" => function(){
         PageController::team();
+    },
+
+    "pametnizabojnik" => function(){
+        PageController::pametnizabojnik();
     }
+
 
 ];
 

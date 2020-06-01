@@ -15,4 +15,8 @@ class PageController {
     public static function team(){
         ViewHelper::render("view/team-info.php");
     }
+
+    public static function pametnizabojnik(){
+        ViewHelper::render("view/displaysensordata.php");
+    }
 }
