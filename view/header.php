@@ -29,9 +29,9 @@
           Pametni zabojnik
         </a>
         <div class="navbar-dropdown is-right">
-          <button class="navbar-item" disabled>
+          <a href="<?=BASE_URL . "pametnizabojnik" ?>" class="navbar-item">
             Prikaži polnost pametnih zabojnikov
-          </button>
+          </a>
           <p class="help">Vsebina pametnega zabojnika je v izdelavi.</p>
         </div>
       </div>
