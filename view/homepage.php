@@ -26,7 +26,7 @@
                         <div class="buttons are-medium">
                             <a href="<?=BASE_URL . "project-info" ?>" class="button is-success is-fullwidth is-rounded">Vsebina projekta</a>
                             <a href="<?=BASE_URL . "team-info" ?>" class="button is-success is-fullwidth is-rounded">Ekipa</a>
-                            <a href="<?=BASE_URL . "pametnizabojnik" ?>" class="button is-success is-fullwidth is-rounded is-static">Pametni zabojnik</a>
+                            <a href="<?=BASE_URL . "pametnizabojnik" ?>" class="button is-success is-fullwidth is-rounded">Pametni zabojnik</a>
                             <p class="help is-success"> Vsebina pametnega zabojnika je v izdelavi. </p>
                         </div>
                     </div>
