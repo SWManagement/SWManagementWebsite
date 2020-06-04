@@ -117,7 +117,7 @@
                 <div class="media-content">
                     <div class="content">
                         <p> <span style="font-size: 1.3em; font-weight: bolder;">Lina Ženko</span><span style="padding-left: 15px;">Fakulteta za upravo</span> <hr>
-                        Lina Ženko je študentka fakultete za upravo, v okviru projekta je izjemno dejavna na različnih področjih.
+                        Lina Ženko je študentka Fakultete za upravo, v okviru projekta je izjemno dejavna na različnih področjih.
                          Za družbeno omrežje Tik Tok snema zanimive ustvarjalne posnetke o ponovni uporabi, svojo kreativnost izraža tudi na družabnem omrežju Instagram,
                           kjer poučno vsebino in zanimiva dejstva predstavi na vizualno privlačen način. Za Facebook kanal pripravlja vsebine namenjene starejši publiki,
                            saj se zavzema, da bi na družbeno omrežje Facebook pritegnili čim več starejših uporabnikov. Njena široka paleta aktivnosti, ki jih v sklopu projekta opravlja kaže na to, kako zelo energična, vestna in odgovorna je.
