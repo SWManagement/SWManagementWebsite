@@ -1,6 +1,7 @@
 <?php
 
 require_once("ViewHelper.php");
+require_once("Model/PametniZabojnik.php");
 
 class PageController {
 
@@ -17,6 +18,24 @@ class PageController {
     }
 
     public static function pametnizabojnik(){
-        ViewHelper::render("view/displaysensordata.php");
+        ViewHelper::render("view/pametni-zabojnik.php");
+    }
+
+    public static function meritve(){
+        $zabojniki = PametniZabojnik::getZabojniki();
+
+        if (isset($_GET["id"])){
+            if ($_GET["mer"] == 0){
+                $meritve = PametniZabojnik::getMeritveById($_GET["id"]);
+                $izbrani = PametniZabojnik::getZabojnikById($_GET["id"]);
+                ViewHelper::render("view/meritve.php", ["meritve" => $meritve, "zabojniki" => $zabojniki, "izbrani" => $izbrani]);
+            } else{
+                $meritve = PametniZabojnik::getPolnost($_GET["id"]);
+                ViewHelper::render("view/meritve.php", ["meritve" => $meritve, "zabojniki" => $zabojniki]);
+            }
+        } else{
+            $meritve = PametniZabojnik::getMeritve();
+            ViewHelper::render("view/meritve.php", ["zabojniki" => $zabojniki]);
+        }
     }
 }

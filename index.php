@@ -27,9 +27,11 @@ $urls = [
 
     "pametnizabojnik" => function(){
         PageController::pametnizabojnik();
+    },
+
+    "pametnizabojnik-meritve" => function(){
+        PageController::meritve();
     }
-
-
 ];
 
 try {
